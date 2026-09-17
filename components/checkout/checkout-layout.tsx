@@ -1,0 +1,2 @@
+'use client';
+export function CheckoutLayout({ children }: { children: React.ReactNode }) { return <>{children}</>; }
